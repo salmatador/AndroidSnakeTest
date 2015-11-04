@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">Alpha</string>
+
+    <string name="title_activity_fullscreen">FullscreenActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="begin_game_text">Tap the Screen to Start Game</string>
+    <string name="game_paused_text">Game Paused Tap to Resume</string>
+    <string name="game_over_text">Game Over Man!</string>
 </resources>
